@@ -10,6 +10,6 @@ public class Main {
     public static int addNumbers(int a, int b) {
         // BUG: Professor accidentally made this multiplication instead of addition
         // You will fix this later using a Pull Request!
-        return a * b; 
+        return a + b; 
     }
 }
